@@ -11,7 +11,7 @@ function App() {
            </h2>
            <button onClick={() => setNumber((number) => number+1)}>click</button>
            <div className="box" style={{backgroundColor:color}}></div>
-           <button onClick={() => setColor("green")}>change</button>
+           <button onClick={() => setColor("green")}>test</button>
         </div>
          
     </>
